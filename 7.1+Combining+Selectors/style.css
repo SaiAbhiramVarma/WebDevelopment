@@ -1,0 +1,17 @@
+/* combining selector */
+h1,h2{
+    color: blueviolet;/* group*/
+}
+.box > .done{
+    color: firebrick;/*parent child*/
+
+}
+.box li{
+    color: blue;/*descendent*/
+}
+li.done{
+    color: seagreen;/*chaning*/
+}
+ul p.done{
+    font-size: 0.5 rem;/*multiple combine*/
+}

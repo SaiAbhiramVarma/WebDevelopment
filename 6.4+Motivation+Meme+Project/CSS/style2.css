@@ -1,0 +1,19 @@
+html{
+    background-color: palegreen;
+}
+.img{
+    border:5px solid black;
+    margin-top: 10%;
+}
+.poster{
+    color: red;
+    text-align: center;
+
+}
+h1{
+    font-family: 'Girassol', serif;
+    text-transform: uppercase;
+}
+p1{
+    font-family: 'Lato', sans-serif;
+}

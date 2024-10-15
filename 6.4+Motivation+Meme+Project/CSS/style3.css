@@ -1,0 +1,21 @@
+html{
+    background-color:blue;
+}
+.img{
+    width: 225.333px;
+    height: 406.806px;
+    border: 5px solid black;
+    margin-top: 10%;
+}
+.poster{
+    text-align: center;
+}
+h1{
+    color: red;
+    font-family: 'ABeeZee', sans-serif;
+}
+p{
+    color:yellow;
+    font-family: 'Noto Serif JP', serif;
+
+}

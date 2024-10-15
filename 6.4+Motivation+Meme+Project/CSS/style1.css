@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+}
+.img{
+    border: 5px solid white;
+    margin-top: 80px;
+}
+.poster{
+    color: white;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+p{
+    font-family: 'Goblin One', serif;
+}
