@@ -1,0 +1,52 @@
+body{
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+h1{
+  text-align: center;
+  color: white;
+  font-size: 5rem;
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.left>.card-text{
+  color: blue;
+}
+.right>.card-text{
+  color: red;
+}
+.left>.img{
+  float:right;
+  object-fit: contain;
+}
+.right>.img{
+  float: right;
+  object-fit: contain;
+}
+.left>.card-title{
+  color: pink;
+}
+.right>.card-title{
+  color: blueviolet;
+}
+footer{
+  color: white;
+  font-size: 2.5rem;
+  text-align:center;
+  clear: both;
+}
+.card{
+  width: 45%;
+}
